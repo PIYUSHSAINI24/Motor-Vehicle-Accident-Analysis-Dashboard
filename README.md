@@ -74,9 +74,9 @@ Relationships: One-to-Many with single filter direction
 - Vulnerable User Insights  
 - Accident Density Map  
 - Interactive Slicers: Year, Day, Time Band, Location
+- 
 https://github.com/PIYUSHSAINI24/Motor-Vehicle-Accident-Analysis-Dashboard/blob/main/accidentAnalysisDASHBOARD.jpeg
 
-![Motor Vehicle Accident Dashboard](https://github.com/PIYUSHSAINI24/Motor-Vehicle-Accident-Analysis-Dashboard/blob/main/accidentAnalysisDASHBOARD.jpeg)
 
 ---
 
